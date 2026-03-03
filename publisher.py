@@ -51,3 +51,4 @@ try:
 except KeyboardInterrupt:
     print("Publisher stopped.")
     GPIO.cleanup()
+
